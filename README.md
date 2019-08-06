@@ -1,10 +1,11 @@
 # talks and code from conferences
-here i put code and talks from conferences i gave as tutorials and talks
+here i put code and talks from some conferences i gave as tutorials and talks. 
+full list of conferences I participated is here https://liubovkmatematike.wordpress.com/2017/11/25/conference/ 
 
 i am interested in diffusion processes on networks, mobility of humans (especially some certain subgroups of people), 
 analysis of random walks on networks applied to data. 
 
-# code 
+# code for some talks
 i upload the code for analysis of the global mobility data
 read more on my website about the project I am working on 
 
